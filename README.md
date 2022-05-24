@@ -17,7 +17,8 @@ _____________________________________
 
 Be sure to join me in some of the best communities in DeFi! 
 
+
 The [Saddle Finance](https://discord.gg/xR5ScEJb7y) Discord Community.
 The [Arrakis Finance](https://discord.gg/arrakisfinance) Discord Commmunity.
-The [Thales](https://discord.gg/BbVbNNgHyV)) Discord Community.
+The [Thales](https://discord.gg/BbVbNNgHyV) Discord Community.
 The [Chainlink](https://discord.gg/2YHSAey) Discord Community.
