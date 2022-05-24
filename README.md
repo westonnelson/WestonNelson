@@ -1,6 +1,6 @@
 <h2> Greetings!🔥 I'm Weston Nelson, I love all things DeFi, Web3 and software development! I believe that decentralization and the power of programmable money are the most important tools we possess as a civilization to make our world the best version of itself. </h2>
     
-[![Weston Nelson's Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/westonnelson) Follow me on Twitter if you want to know what I am thinking or up to!
+[![Weston Nelson's Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/westonnelson) Follow me on Twitter if you want to know what I am up to!
 
 _____________________________________
 
