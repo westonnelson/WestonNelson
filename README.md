@@ -6,8 +6,6 @@ I'm Weston Nelson.
 
 <h3> I am an enthusiastic software developer focused on bringing smart contracts to the world. I believe that decentralization and the power of programmable money are the most important tools we possess as a civilization to make us the best version of ourselves.
 
--
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/westonnelson.svg?label=westonnelson&style=social)](https://twitter.com/westonnelson)
 
 
