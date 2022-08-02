@@ -1,12 +1,18 @@
 <h2> Greetings!  
 
-I'm Weston Nelson.
+
 
 </h2>
 
-<h3> I'm a smart contract developer enthusiastic about the potential of Web3. I believe that decentralization and the power of programmable money are the most important tools we possess as a civilization to make us the best version of ourselves.
+I'm Weston Nelson.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/westonnelson.svg?label=westonnelson&style=social)](https://twitter.com/westonnelson)
+<h3> I'm a smart contract developer who is highly enthusiastic about the potential of Web3. I believe that decentralization - combined with the power of programmable money - are the most important tools we possess as a civilization to make us the best version of ourselves.
+
+<h3> 
+
+Follow me on Twitter!
+
+[![twitter Follow](https://img.shields.io/twitter/follow/westonnelson.svg?label=westonnelson&style=social)](https://twitter.com/westonnelson)
 
 
 #### Github Stats 📊
@@ -15,7 +21,9 @@ I'm Weston Nelson.
 
 ____________
 
-Be sure to join me in some of the best communities in DeFi! 
+Be sure to join me in some of the best communities in DeFi and Web3! 
+
+The [Layer2DAO](https://discord.com/invite/PTKzgswQRX) Discord Community.
 
 The [Saddle Finance](https://discord.gg/xR5ScEJb7y) Discord Community.
 
