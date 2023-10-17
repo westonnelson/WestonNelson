@@ -14,12 +14,3 @@ Follow me on X!
 
 [![Weston's GitHub Metrics](https://github-readme-stats.vercel.app/api?username=westonnelson)](https://github.com/anuraghazra/github-readme-stats)
 
-### Be sure to join me in some of the best communities in Web3! 
-
-___
-
-The [NFTEarth](https://discord.gg/56a7u3wDkX) Discord.
-
-The [Layer2DAO](https://discord.com/invite/PTKzgswQRX) Discord.
-
-The [Thales Market](https://discord.gg/BbVbNNgHyV) Discord.
